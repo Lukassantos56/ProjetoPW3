@@ -1,0 +1,21 @@
+{
+  "name": "apilivraria",
+  "version": "1.0.0",
+  "description": "APIREST de gestão de livros",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pw3",
+    "node.js",
+    "etec",
+    "barueri",
+    "3°DS"
+  ],
+  "author": "Lukas Santos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
