@@ -1,0 +1,32 @@
+<%- include('../partials/header.ejs')  %>
+
+<title>CADASTRO DE CATEGORIAS - LIBRI</title>
+
+</head>
+
+<body>
+    
+    <div class="container">
+
+        <%- include('../partials/menu.ejs') %>
+
+        <div class="card mt-2 bg-light">
+            <div class="card-header text-dark">CADASTRO DE TENIS</div>
+        </div>
+
+        <div class="card-body bg-light">
+            <form action="http://localhost:3000/inserirMarca" method="post">
+                
+                <label class="text-dark" for="">CATEGORIA</label>
+                <input type="text" class="form-control" 
+                        name="nome_marca" id="nome_marca"
+                        placeholder="DIGITE UMA CATEGORIA">
+                
+                <button class="btn btn-success mt-2">CADASTRAR</button>
+            </form>
+        </div>
+    </div>
+
+    </body>
+
+<%- include('../partials/footer.ejs')  %>
