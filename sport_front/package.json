@@ -1,5 +1,5 @@
 {
-  "name": "games_store_front_end",
+  "name": "sport_front",
   "version": "1.0.0",
   "description": "atividade de pw3",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Alexxmfs/GamesStore_Front_end.git"
+    "url": "git+https://github.com/Lukassantos56/ProjetoPW3.git"
   },
-  "author": "Alex Macedo",
+  "author": "Lukas Santos",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Alexxmfs/GamesStore_Front_end/issues"
+    "url": "https://github.com/Lukassantos56/ProjetoPW3.git"
   },
-  "homepage": "https://github.com/Alexxmfs/GamesStore_Front_end#readme",
+  "homepage": "https://github.com/Lukassantos56/ProjetoPW3.git",
   "dependencies": {
     "axios": "^0.27.2",
     "ejs": "^3.1.8",
